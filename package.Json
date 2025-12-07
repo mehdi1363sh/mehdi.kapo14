@@ -1,10 +1,10 @@
 {
   "name": "mehdi.kapo14",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "Server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node Server.js"
   },
   "dependencies": {
     "express": "^4.18.2"
